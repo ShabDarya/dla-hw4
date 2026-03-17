@@ -40,6 +40,9 @@ Follow these steps to install the project:
    pip install -r requirements.txt
    ```
 
+ 2. Download [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation) to project path.
+
+
 ## How To Use
 To download audio, run following code:
   ```bash
